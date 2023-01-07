@@ -366,6 +366,8 @@ nav ul li a:hover::after{
         
     }
     nav img{
+        position: relative;
+        left:30%;
         clear: left;    
     }
     
